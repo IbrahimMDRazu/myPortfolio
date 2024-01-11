@@ -1,0 +1,50 @@
+.image-center img {
+    width: 25%;
+    margin-left: 40%;
+}
+
+h1 {
+text-align: center;
+text-decoration:underline;
+padding-top: 1%;
+margin-left: 5%;
+}
+h2 {
+    text-decoration: underline;
+}
+.paragrapgh{
+    text-align: center;
+    font-style: italic;
+    margin-bottom: 10px;
+    margin-right: 2%;
+    font-size: 20px;
+}
+hr {
+    border-bottom: 2px solid black;  
+}
+
+body {
+    background-color: cadetblue;
+}
+strong {
+    font-style: italic;
+}
+.education h2 {
+    text-align: left;
+    text-decoration: underline;
+}
+p {
+    margin-left: 100px;
+}
+ul img {
+   height: 16px;
+    
+}
+.address p {
+   display: contents;
+}.address h3 {
+    text-decoration: underline;
+}
+.address li {
+    list-style-type: none;
+}
